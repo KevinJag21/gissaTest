@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "nH0AfHsPTD+82fdxF3LLfdtAHK+BJk2XwIgVeJnI7lhTCTMl0ewK/ntQnrQJdS/LX45kswL6KSIm/x4aOlIHsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Desarrollo\\GISSA\\WebApi\\webApi\\webApi\\webApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.identitymodel.logging\\5.5.0\\microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.5.0\\system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
